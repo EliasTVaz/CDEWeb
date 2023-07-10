@@ -1,0 +1,30 @@
+2023-07-09 12:48:23,401  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7255
+ 2023-07-09 12:48:23,445  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5211
+ 2023-07-09 12:48:23,448  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-07-09 12:48:23,451  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-07-09 12:48:23,453  INFO Microsoft.Hosting.Lifetime.RunInternal [0] - MESSAGE: Content root path: C:\Users\elias\Documents\GitHub\CDEWeb\CDE Web
+ 2023-07-09 12:49:08,809  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7255
+ 2023-07-09 12:49:08,849  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5211
+ 2023-07-09 12:49:08,853  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-07-09 12:49:08,857  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-07-09 12:49:08,859  INFO Microsoft.Hosting.Lifetime.RunInternal [0] - MESSAGE: Content root path: C:\Users\elias\Documents\GitHub\CDEWeb\CDE Web
+ 2023-07-09 12:49:38,460  INFO CDE_Web.Controllers.BaseController.Index [13] - MESSAGE: GetStudents method started
+ 2023-07-09 12:53:13,434  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7255
+ 2023-07-09 12:53:13,472  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5211
+ 2023-07-09 12:53:13,476  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-07-09 12:53:13,479  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-07-09 12:53:13,482  INFO Microsoft.Hosting.Lifetime.RunInternal [0] - MESSAGE: Content root path: C:\Users\elias\Documents\GitHub\CDEWeb\CDE Web
+ 2023-07-09 12:53:21,334  INFO CDE_Web.Controllers.BaseController.Index [13] - MESSAGE: GetStudents method started
+ 2023-07-09 12:55:27,824  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7255
+ 2023-07-09 12:55:27,860  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5211
+ 2023-07-09 12:55:27,862  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-07-09 12:55:27,865  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-07-09 12:55:27,866  INFO Microsoft.Hosting.Lifetime.RunInternal [0] - MESSAGE: Content root path: C:\Users\elias\Documents\GitHub\CDEWeb\CDE Web
+ 2023-07-09 12:55:33,417  INFO CDE_Web.Controllers.BaseController.Index [13] - MESSAGE: GetStudents method started
+ 2023-07-09 13:00:10,020  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7255
+ 2023-07-09 13:00:10,061  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5211
+ 2023-07-09 13:00:10,064  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-07-09 13:00:10,067  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-07-09 13:00:10,069  INFO Microsoft.Hosting.Lifetime.RunInternal [0] - MESSAGE: Content root path: C:\Users\elias\Documents\GitHub\CDEWeb\CDE Web
+ 2023-07-09 13:00:19,444  INFO CDE_Web.Controllers.BaseController.Index [13] - MESSAGE: GetStudents method started
+ 
